@@ -60,6 +60,9 @@ export default {
   pwa: {
     manifest: {
       lang: 'en'
+    },
+    icon: {
+      iconSrc: '/ecommerce.ico'
     }
   },
 
